@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--wpzh+gqw^8g_*htox0q#o#^bm6ls50wc=-*sgds$$792mk*)t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['my-hng-web-app.azurewebsites.net']
+ALLOWED_HOSTS = [https://my-hng-app.herokuapp.com/]
 
 
 # Application definition
