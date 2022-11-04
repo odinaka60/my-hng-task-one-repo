@@ -9,5 +9,6 @@ urlpatterns = [
 
     path('', views.home),
     path('api/', views.getEndpoints),
+    path('result/', views.getResult),
     
 ]
